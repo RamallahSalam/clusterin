@@ -12,7 +12,7 @@
 Membuat koneksi dan database baru:
 
 ```bash
-  php ccn buat:db username password database
+  php ccn db username password database
 ```
 Jika muncul "Mau sekalian migrate?"
 
@@ -23,7 +23,7 @@ pilih "yes" biar sekalian jalanin migrate-nya.
 Menjalankan Aplikasi: 
 
 ```bash
-  php ccn serv
+  php ccn jalanin
 ```
 
 
