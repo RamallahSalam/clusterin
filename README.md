@@ -20,7 +20,7 @@ pilih "yes" biar sekalian jalanin migrate-nya.
 
 
 ### 
-Menjalankan Aplikasi: 
+Menjalankan Laravel: 
 
 ```bash
   php ccn jalanin
